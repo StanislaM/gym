@@ -30,13 +30,14 @@ export default {
         abstractWaves: "url('./assets/AbstractWaves.png')",
         sparkles: "url('./assets/Sparkl.png')",
         circles: "url('./assets/Circles.png')"
-      }
+      },
     },
     screens: {
       xs: "480px",
       sm: "768px",
       md: "1060px",
-    }
+    },
+
   },
   plugins: [],
 }
